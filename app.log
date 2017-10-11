@@ -1,0 +1,6 @@
+16:46:34.658 [main] INFO  m.j.f.p.c.PizzeriaAdminConsoleApp - ***** Pizzeria Administration *****
+16:46:34.661 [main] INFO  m.j.f.p.c.PizzeriaAdminConsoleApp - 1. Lister les pizzas
+16:46:34.661 [main] INFO  m.j.f.p.c.PizzeriaAdminConsoleApp - 2. Ajouter une nouvelle pizza
+16:46:34.661 [main] INFO  m.j.f.p.c.PizzeriaAdminConsoleApp - 3. Mettre à jour une pizza
+16:46:34.661 [main] INFO  m.j.f.p.c.PizzeriaAdminConsoleApp - 4. Supprimer une pizza
+16:46:34.661 [main] INFO  m.j.f.p.c.PizzeriaAdminConsoleApp - 99. Sortir
